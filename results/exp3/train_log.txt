@@ -1,0 +1,188 @@
+===========================================
+[*] 实验开始时间: 2026-03-30 12:58:08
+[*] 当前保存目录: results\exp3
+[*] 使用计算设备: CUDA
+[*] Batch Size: 8, Epochs: 100, LR: 0.0003
+===========================================
+
+Epoch [1/100] | Train Loss: 0.7088 | Val Dice Score: 0.5755 | LR: 0.000300
+=> 表现提升 (Best Dice: 0.5755, mIoU: 0.4166, mPA: 0.6964)，模型已保存！
+
+Epoch [2/100] | Train Loss: 0.6451 | Val Dice Score: 0.5947 | LR: 0.000300
+=> 表现提升 (Best Dice: 0.5947, mIoU: 0.4364, mPA: 0.7258)，模型已保存！
+
+Epoch [3/100] | Train Loss: 0.5775 | Val Dice Score: 0.6364 | LR: 0.000299
+=> 表现提升 (Best Dice: 0.6364, mIoU: 0.4802, mPA: 0.7773)，模型已保存！
+
+Epoch [4/100] | Train Loss: 0.5205 | Val Dice Score: 0.6473 | LR: 0.000299
+=> 表现提升 (Best Dice: 0.6473, mIoU: 0.4906, mPA: 0.7960)，模型已保存！
+
+Epoch [5/100] | Train Loss: 0.5043 | Val Dice Score: 0.6556 | LR: 0.000298
+=> 表现提升 (Best Dice: 0.6556, mIoU: 0.5007, mPA: 0.8058)，模型已保存！
+
+Epoch [6/100] | Train Loss: 0.4841 | Val Dice Score: 0.6630 | LR: 0.000297
+=> 表现提升 (Best Dice: 0.6630, mIoU: 0.5068, mPA: 0.8268)，模型已保存！
+
+Epoch [7/100] | Train Loss: 0.4756 | Val Dice Score: 0.6627 | LR: 0.000296
+Epoch [8/100] | Train Loss: 0.4706 | Val Dice Score: 0.6793 | LR: 0.000295
+=> 表现提升 (Best Dice: 0.6793, mIoU: 0.5255, mPA: 0.8284)，模型已保存！
+
+Epoch [9/100] | Train Loss: 0.4642 | Val Dice Score: 0.6777 | LR: 0.000294
+Epoch [10/100] | Train Loss: 0.4541 | Val Dice Score: 0.6589 | LR: 0.000293
+Epoch [11/100] | Train Loss: 0.4501 | Val Dice Score: 0.6972 | LR: 0.000291
+=> 表现提升 (Best Dice: 0.6972, mIoU: 0.5442, mPA: 0.8523)，模型已保存！
+
+Epoch [12/100] | Train Loss: 0.4540 | Val Dice Score: 0.6967 | LR: 0.000290
+Epoch [13/100] | Train Loss: 0.4529 | Val Dice Score: 0.7006 | LR: 0.000288
+=> 表现提升 (Best Dice: 0.7006, mIoU: 0.5493, mPA: 0.8508)，模型已保存！
+
+Epoch [14/100] | Train Loss: 0.4413 | Val Dice Score: 0.7015 | LR: 0.000286
+=> 表现提升 (Best Dice: 0.7015, mIoU: 0.5480, mPA: 0.8552)，模型已保存！
+
+Epoch [15/100] | Train Loss: 0.4510 | Val Dice Score: 0.7062 | LR: 0.000284
+=> 表现提升 (Best Dice: 0.7062, mIoU: 0.5548, mPA: 0.8528)，模型已保存！
+
+Epoch [16/100] | Train Loss: 0.4405 | Val Dice Score: 0.7021 | LR: 0.000282
+Epoch [17/100] | Train Loss: 0.4491 | Val Dice Score: 0.7065 | LR: 0.000279
+=> 表现提升 (Best Dice: 0.7065, mIoU: 0.5526, mPA: 0.8621)，模型已保存！
+
+Epoch [18/100] | Train Loss: 0.4442 | Val Dice Score: 0.6645 | LR: 0.000277
+Epoch [19/100] | Train Loss: 0.4475 | Val Dice Score: 0.7095 | LR: 0.000274
+=> 表现提升 (Best Dice: 0.7095, mIoU: 0.5577, mPA: 0.8529)，模型已保存！
+
+Epoch [20/100] | Train Loss: 0.4376 | Val Dice Score: 0.7112 | LR: 0.000271
+=> 表现提升 (Best Dice: 0.7112, mIoU: 0.5595, mPA: 0.8607)，模型已保存！
+
+Epoch [21/100] | Train Loss: 0.4305 | Val Dice Score: 0.7004 | LR: 0.000269
+Epoch [22/100] | Train Loss: 0.4319 | Val Dice Score: 0.7218 | LR: 0.000266
+=> 表现提升 (Best Dice: 0.7218, mIoU: 0.5709, mPA: 0.8663)，模型已保存！
+
+Epoch [23/100] | Train Loss: 0.4246 | Val Dice Score: 0.7094 | LR: 0.000263
+Epoch [24/100] | Train Loss: 0.4224 | Val Dice Score: 0.7154 | LR: 0.000259
+Epoch [25/100] | Train Loss: 0.4426 | Val Dice Score: 0.7172 | LR: 0.000256
+Epoch [26/100] | Train Loss: 0.4465 | Val Dice Score: 0.6815 | LR: 0.000253
+Epoch [27/100] | Train Loss: 0.4370 | Val Dice Score: 0.7094 | LR: 0.000249
+Epoch [28/100] | Train Loss: 0.4187 | Val Dice Score: 0.7272 | LR: 0.000246
+=> 表现提升 (Best Dice: 0.7272, mIoU: 0.5775, mPA: 0.8703)，模型已保存！
+
+Epoch [29/100] | Train Loss: 0.4181 | Val Dice Score: 0.7239 | LR: 0.000242
+Epoch [30/100] | Train Loss: 0.4162 | Val Dice Score: 0.7242 | LR: 0.000238
+Epoch [31/100] | Train Loss: 0.4244 | Val Dice Score: 0.7395 | LR: 0.000235
+=> 表现提升 (Best Dice: 0.7395, mIoU: 0.5912, mPA: 0.8775)，模型已保存！
+
+Epoch [32/100] | Train Loss: 0.4029 | Val Dice Score: 0.7236 | LR: 0.000231
+Epoch [33/100] | Train Loss: 0.3897 | Val Dice Score: 0.7232 | LR: 0.000227
+Epoch [34/100] | Train Loss: 0.3981 | Val Dice Score: 0.7320 | LR: 0.000223
+Epoch [35/100] | Train Loss: 0.4049 | Val Dice Score: 0.7318 | LR: 0.000218
+Epoch [36/100] | Train Loss: 0.4044 | Val Dice Score: 0.7505 | LR: 0.000214
+=> 表现提升 (Best Dice: 0.7505, mIoU: 0.6043, mPA: 0.8817)，模型已保存！
+
+Epoch [37/100] | Train Loss: 0.4152 | Val Dice Score: 0.7450 | LR: 0.000210
+Epoch [38/100] | Train Loss: 0.3952 | Val Dice Score: 0.7173 | LR: 0.000206
+Epoch [39/100] | Train Loss: 0.4080 | Val Dice Score: 0.7237 | LR: 0.000201
+Epoch [40/100] | Train Loss: 0.3939 | Val Dice Score: 0.7509 | LR: 0.000197
+=> 表现提升 (Best Dice: 0.7509, mIoU: 0.6042, mPA: 0.8809)，模型已保存！
+
+Epoch [41/100] | Train Loss: 0.4015 | Val Dice Score: 0.7596 | LR: 0.000192
+=> 表现提升 (Best Dice: 0.7596, mIoU: 0.6159, mPA: 0.8873)，模型已保存！
+
+Epoch [42/100] | Train Loss: 0.3904 | Val Dice Score: 0.7455 | LR: 0.000188
+Epoch [43/100] | Train Loss: 0.3887 | Val Dice Score: 0.7575 | LR: 0.000183
+Epoch [44/100] | Train Loss: 0.3817 | Val Dice Score: 0.7576 | LR: 0.000179
+Epoch [45/100] | Train Loss: 0.3833 | Val Dice Score: 0.7678 | LR: 0.000174
+=> 表现提升 (Best Dice: 0.7678, mIoU: 0.6268, mPA: 0.8917)，模型已保存！
+
+Epoch [46/100] | Train Loss: 0.3745 | Val Dice Score: 0.7798 | LR: 0.000169
+=> 表现提升 (Best Dice: 0.7798, mIoU: 0.6423, mPA: 0.8954)，模型已保存！
+
+Epoch [47/100] | Train Loss: 0.3718 | Val Dice Score: 0.7744 | LR: 0.000165
+Epoch [48/100] | Train Loss: 0.3721 | Val Dice Score: 0.7721 | LR: 0.000160
+Epoch [49/100] | Train Loss: 0.3611 | Val Dice Score: 0.7725 | LR: 0.000155
+Epoch [50/100] | Train Loss: 0.3698 | Val Dice Score: 0.7648 | LR: 0.000150
+Epoch [51/100] | Train Loss: 0.3679 | Val Dice Score: 0.6915 | LR: 0.000146
+Epoch [52/100] | Train Loss: 0.3884 | Val Dice Score: 0.7581 | LR: 0.000141
+Epoch [53/100] | Train Loss: 0.3743 | Val Dice Score: 0.7906 | LR: 0.000136
+=> 表现提升 (Best Dice: 0.7906, mIoU: 0.6570, mPA: 0.9026)，模型已保存！
+
+Epoch [54/100] | Train Loss: 0.3480 | Val Dice Score: 0.7782 | LR: 0.000132
+Epoch [55/100] | Train Loss: 0.3456 | Val Dice Score: 0.7807 | LR: 0.000127
+Epoch [56/100] | Train Loss: 0.3571 | Val Dice Score: 0.7936 | LR: 0.000122
+=> 表现提升 (Best Dice: 0.7936, mIoU: 0.6620, mPA: 0.9025)，模型已保存！
+
+Epoch [57/100] | Train Loss: 0.3531 | Val Dice Score: 0.7972 | LR: 0.000118
+=> 表现提升 (Best Dice: 0.7972, mIoU: 0.6667, mPA: 0.9071)，模型已保存！
+
+Epoch [58/100] | Train Loss: 0.3470 | Val Dice Score: 0.8010 | LR: 0.000113
+=> 表现提升 (Best Dice: 0.8010, mIoU: 0.6723, mPA: 0.9072)，模型已保存！
+
+Epoch [59/100] | Train Loss: 0.3604 | Val Dice Score: 0.8018 | LR: 0.000109
+=> 表现提升 (Best Dice: 0.8018, mIoU: 0.6727, mPA: 0.9039)，模型已保存！
+
+Epoch [60/100] | Train Loss: 0.3532 | Val Dice Score: 0.7882 | LR: 0.000104
+Epoch [61/100] | Train Loss: 0.3311 | Val Dice Score: 0.7748 | LR: 0.000100
+Epoch [62/100] | Train Loss: 0.3464 | Val Dice Score: 0.8021 | LR: 0.000095
+=> 表现提升 (Best Dice: 0.8021, mIoU: 0.6735, mPA: 0.9091)，模型已保存！
+
+Epoch [63/100] | Train Loss: 0.3338 | Val Dice Score: 0.7788 | LR: 0.000091
+Epoch [64/100] | Train Loss: 0.3425 | Val Dice Score: 0.8088 | LR: 0.000087
+=> 表现提升 (Best Dice: 0.8088, mIoU: 0.6824, mPA: 0.9098)，模型已保存！
+
+Epoch [65/100] | Train Loss: 0.3173 | Val Dice Score: 0.7954 | LR: 0.000083
+Epoch [66/100] | Train Loss: 0.3281 | Val Dice Score: 0.8028 | LR: 0.000078
+Epoch [67/100] | Train Loss: 0.3253 | Val Dice Score: 0.8078 | LR: 0.000074
+Epoch [68/100] | Train Loss: 0.3267 | Val Dice Score: 0.8089 | LR: 0.000070
+=> 表现提升 (Best Dice: 0.8089, mIoU: 0.6824, mPA: 0.9145)，模型已保存！
+
+Epoch [69/100] | Train Loss: 0.3286 | Val Dice Score: 0.8086 | LR: 0.000066
+Epoch [70/100] | Train Loss: 0.3088 | Val Dice Score: 0.8017 | LR: 0.000063
+Epoch [71/100] | Train Loss: 0.3180 | Val Dice Score: 0.8189 | LR: 0.000059
+=> 表现提升 (Best Dice: 0.8189, mIoU: 0.6971, mPA: 0.9164)，模型已保存！
+
+Epoch [72/100] | Train Loss: 0.3101 | Val Dice Score: 0.8211 | LR: 0.000055
+=> 表现提升 (Best Dice: 0.8211, mIoU: 0.6999, mPA: 0.9181)，模型已保存！
+
+Epoch [73/100] | Train Loss: 0.3076 | Val Dice Score: 0.8184 | LR: 0.000052
+Epoch [74/100] | Train Loss: 0.3088 | Val Dice Score: 0.8186 | LR: 0.000048
+Epoch [75/100] | Train Loss: 0.3093 | Val Dice Score: 0.8153 | LR: 0.000045
+Epoch [76/100] | Train Loss: 0.3151 | Val Dice Score: 0.8257 | LR: 0.000042
+=> 表现提升 (Best Dice: 0.8257, mIoU: 0.7064, mPA: 0.9192)，模型已保存！
+
+Epoch [77/100] | Train Loss: 0.3010 | Val Dice Score: 0.8282 | LR: 0.000038
+=> 表现提升 (Best Dice: 0.8282, mIoU: 0.7108, mPA: 0.9196)，模型已保存！
+
+Epoch [78/100] | Train Loss: 0.3042 | Val Dice Score: 0.8268 | LR: 0.000035
+Epoch [79/100] | Train Loss: 0.2986 | Val Dice Score: 0.8336 | LR: 0.000032
+=> 表现提升 (Best Dice: 0.8336, mIoU: 0.7188, mPA: 0.9223)，模型已保存！
+
+Epoch [80/100] | Train Loss: 0.2892 | Val Dice Score: 0.8310 | LR: 0.000030
+Epoch [81/100] | Train Loss: 0.2961 | Val Dice Score: 0.8284 | LR: 0.000027
+Epoch [82/100] | Train Loss: 0.2934 | Val Dice Score: 0.8349 | LR: 0.000024
+=> 表现提升 (Best Dice: 0.8349, mIoU: 0.7207, mPA: 0.9233)，模型已保存！
+
+Epoch [83/100] | Train Loss: 0.2850 | Val Dice Score: 0.8335 | LR: 0.000022
+Epoch [84/100] | Train Loss: 0.2923 | Val Dice Score: 0.8326 | LR: 0.000019
+Epoch [85/100] | Train Loss: 0.2993 | Val Dice Score: 0.8357 | LR: 0.000017
+=> 表现提升 (Best Dice: 0.8357, mIoU: 0.7217, mPA: 0.9238)，模型已保存！
+
+Epoch [86/100] | Train Loss: 0.2774 | Val Dice Score: 0.8343 | LR: 0.000015
+Epoch [87/100] | Train Loss: 0.2968 | Val Dice Score: 0.8352 | LR: 0.000013
+Epoch [88/100] | Train Loss: 0.2723 | Val Dice Score: 0.8322 | LR: 0.000011
+Epoch [89/100] | Train Loss: 0.2892 | Val Dice Score: 0.8337 | LR: 0.000010
+Epoch [90/100] | Train Loss: 0.2916 | Val Dice Score: 0.8334 | LR: 0.000008
+Epoch [91/100] | Train Loss: 0.2860 | Val Dice Score: 0.8330 | LR: 0.000007
+Epoch [92/100] | Train Loss: 0.2716 | Val Dice Score: 0.8328 | LR: 0.000006
+Epoch [93/100] | Train Loss: 0.2755 | Val Dice Score: 0.8332 | LR: 0.000005
+Epoch [94/100] | Train Loss: 0.2754 | Val Dice Score: 0.8333 | LR: 0.000004
+Epoch [95/100] | Train Loss: 0.2771 | Val Dice Score: 0.8339 | LR: 0.000003
+Epoch [96/100] | Train Loss: 0.2750 | Val Dice Score: 0.8340 | LR: 0.000002
+Epoch [97/100] | Train Loss: 0.2872 | Val Dice Score: 0.8340 | LR: 0.000002
+Epoch [98/100] | Train Loss: 0.2750 | Val Dice Score: 0.8347 | LR: 0.000001
+Epoch [99/100] | Train Loss: 0.2836 | Val Dice Score: 0.8346 | LR: 0.000001
+Epoch [100/100] | Train Loss: 0.2864 | Val Dice Score: 0.8343 | LR: 0.000001
+===========================================
+[*] 实验结束时间: 2026-03-30 13:59:32
+[*] 最终最优验证指标:
+    - Best Dice : 0.8357
+    - Best mIoU : 0.7217
+    - Best mPA  : 0.9238
+===========================================
